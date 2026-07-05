@@ -30,3 +30,23 @@ Implementing the open-source server bridge into your development cycle is simple
    ```cfg
    set sv_fiveboosts_token "YOUR_RSA_DASHBOARD_TOKEN_HERE"
    ensure fiveboosts
+
+    Boot up your local server instance, log in to the web panel, and scale your first concurrent testing units!
+
+🔒 Network Security & Access Control
+
+FiveBoosts comes equipped with full enterprise-level safety integrations manageable via your panel:
+
+    IP Whitelisting: Restrict token execution heartbeats to a single designated server IP address.
+
+    OneSync Gate: Dynamically block or allow access for unlicensed connecting clients.
+
+    60s Heartbeat Kill-Switch: Missed authentication ticks instantly terminate all active processes automatically server-side.
+
+💬 Community & Support
+
+Need assistance with your configuration or looking to scale up an enterprise cluster for massive slot configurations?
+
+    Join our Discord: Join the FiveBoosts Community (Replace with your direct Discord link if available)
+
+Disclaimer: fiveboosts.net is an independent software infrastructure provider and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Rockstar Games, Take-Two Interactive, Cfx.re, or any of their subsidiaries or affiliates.
